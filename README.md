@@ -1,0 +1,1 @@
+I will creating several methods that manipulate a linked list in ruby.
